@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\carbook-master\.DS_Store" />
+    <None Include="wwwroot\carbook-master\css\.DS_Store" />
+    <None Include="wwwroot\carbook-master\css\bootstrap\.DS_Store" />
+    <None Include="wwwroot\carbook-master\css\css\.DS_Store" />
+    <None Include="wwwroot\carbook-master\fonts\.DS_Store" />
+    <None Include="wwwroot\carbook-master\fonts\flaticon\.DS_Store" />
+    <None Include="wwwroot\carbook-master\fonts\flaticon\font\.DS_Store" />
+    <None Include="wwwroot\carbook-master\fonts\ionicons\fonts\.DS_Store" />
+    <None Include="wwwroot\carbook-master\images\.DS_Store" />
+    <None Include="wwwroot\carbook-master\js\.DS_Store" />
+    <None Include="wwwroot\carbook-master\scss\.DS_Store" />
+    <None Include="wwwroot\carbook-master\scss\bootstrap\.DS_Store" />
+    <None Include="wwwroot\UdemyCarBookLast-master\Core\UdemyCarBook.Application\UdemyCarBook.Application.csproj" />
+    <None Include="wwwroot\UdemyCarBookLast-master\Core\UdemyCarBook.Domain\UdemyCarBook.Domain.csproj" />
+    <None Include="wwwroot\UdemyCarBookLast-master\Frontends\UdemyCarBook.Dto\UdemyCarBook.Dto.csproj" />
+    <None Include="wwwroot\UdemyCarBookLast-master\Frontends\UdemyCarBook.WebUI\UdemyCarBook.WebUI.csproj" />
+    <None Include="wwwroot\UdemyCarBookLast-master\Frontends\UdemyCarBook.WebUI\wwwroot\carbook-master\.DS_Store" />
+    <None Include="wwwroot\UdemyCarBookLast-master\Frontends\UdemyCarBook.WebUI\wwwroot\carbook-master\css\.DS_Store" />
+    <None Include="wwwroot\UdemyCarBookLast-master\Frontends\UdemyCarBook.WebUI\wwwroot\carbook-master\css\bootstrap\.DS_Store" />
+    <None Include="wwwroot\UdemyCarBookLast-master\Frontends\UdemyCarBook.WebUI\wwwroot\carbook-master\css\css\.DS_Store" />
+    <None Include="wwwroot\UdemyCarBookLast-master\Frontends\UdemyCarBook.WebUI\wwwroot\carbook-master\fonts\.DS_Store" />
+    <None Include="wwwroot\UdemyCarBookLast-master\Frontends\UdemyCarBook.WebUI\wwwroot\carbook-master\fonts\flaticon\.DS_Store" />
+    <None Include="wwwroot\UdemyCarBookLast-master\Frontends\UdemyCarBook.WebUI\wwwroot\carbook-master\fonts\flaticon\font\.DS_Store" />
+    <None Include="wwwroot\UdemyCarBookLast-master\Frontends\UdemyCarBook.WebUI\wwwroot\carbook-master\fonts\ionicons\fonts\.DS_Store" />
+    <None Include="wwwroot\UdemyCarBookLast-master\Frontends\UdemyCarBook.WebUI\wwwroot\carbook-master\images\.DS_Store" />
+    <None Include="wwwroot\UdemyCarBookLast-master\Frontends\UdemyCarBook.WebUI\wwwroot\carbook-master\js\.DS_Store" />
+    <None Include="wwwroot\UdemyCarBookLast-master\Frontends\UdemyCarBook.WebUI\wwwroot\carbook-master\scss\.DS_Store" />
+    <None Include="wwwroot\UdemyCarBookLast-master\Frontends\UdemyCarBook.WebUI\wwwroot\carbook-master\scss\bootstrap\.DS_Store" />
+    <None Include="wwwroot\UdemyCarBookLast-master\Infrastructure\UdemyCarBook.Persistence\UdemyCarBook.Persistence.csproj" />
+    <None Include="wwwroot\UdemyCarBookLast-master\Presentation\UdemyCarBook.WebApi\UdemyCarBook.WebApi.csproj" />
+    <None Include="wwwroot\UdemyCarBookLast-master\UdemyCarBook.sln" />
+  </ItemGroup>
+
+</Project>
